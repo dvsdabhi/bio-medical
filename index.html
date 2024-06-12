@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ASTRMIHA Therapeutics</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <header id="header">
+        <div class="header-first-div">
+            <a href="#home"><img src="images/logo1.jpeg" alt="Client's Logo"></a>
+        </div>
+        <div class="header-second-div">
+            <div class="header-second-div-link">
+                <a href="#home">Home</a>
+                <a href="#about">About</a>
+                <a href="#research">Research</a>
+                <a href="#solution">Our solution</a>
+                <!-- <a href="#partnerships">partnerships</a> -->
+                <a href="#team">Our teams</a>
+            </div>
+            <div class="contact-button">
+                <a href="#contact"><button>Contact-us</button></a>
+            </div>
+            <div class="language-dropdown-div" id="language-dropdown">
+                <select name="languageSelect" id="languageSelect" onchange="changeLanguage()">
+                    <option value="en">English</option>
+                    <option value="fr">French</option>
+                </select>
+            </div>
+        </div>
+    </header>
+    <!-- <div class="mobile-menu">
+        <button class="menu-btn" onclick="toggleMenu()"><i class="fas fa-bars"></i></button>
+        <div class="mobile-menu-links">
+            <a href="#home">Home</a>
+            <a href="#about">About</a>
+            <a href="#research">Research</a>
+            <a href="#solution">Our solution</a>
+            <a href="#team">Our teams</a>
+            <a href="#contact">Contact</a>
+        </div>
+    </div> -->
+    
+    <main>
+        <!-- Home Section -->
+        <section id="home">
+            <div class="div-home">
+                <img src="images/home1.jpg" alt="Biomedical Research">
+                <div class="image-text-div">
+                    <h1 id="home-title" class="animated-text"></h1>
+                    <p id="home-subtitle" class="animated-text"></p>
+                </div>
+                <!-- <div class="div-home-paragraph">
+                    <p id="home-content">Startup de recherche biornedicale dediee a la decouverte de traitements innovants pour les maladies neurodegeneratives, en combinant ('intelligence artificielle et les biotechnologies avancees pour accelerer le developpement de therapies efficaces et personnalisees.</p>
+                </div> -->
+            </div>
+        </section>
+        
+        <!-- About Us Section -->
+        <section id="about" class="about-animation">
+            <div class="main-about">
+                <div class="main-about-details">
+                    <h2 id="about-startup">Description of the startup :</h2>
+                    <p id="about-descriptions">According to the WHO, infectious diseases are among the top three leading causes of death worldwide. ASTREMIHA Therapeutics is developing broad-spectrum antivirals aimed at blocking viral replication and strengthening the immune system to combat infections. These next-generation antivirals will address urgent and priority health needs such as AIDS and long COVID, with innovative preventive and curative properties.</p>
+                    <h2 id="about-title">About Us</h2>
+                    <p id="about-creation-date">Date of Establishment: 2024</p>
+                    <p id="about-founders">Main Founder: Mireille Laforge</p>
+                    <p id="about-Co-founders">Co-founders: Pierre Gressens, Raphael de Saint Exupéry</p>
+                    <p id="about-Evolution">Evolution: In progress</p>
+                    <p id="about-mission">Mission and Vision: Short-term and long-term goals.</p>
+                    <ul id="about-goals">
+                        <li>Short-term Goals: Develop the QVs family as a new curative treatment for AIDS and COVID/long COVID.</li>
+                        <li>Long-term Goals: Develop the QVs family as broad-spectrum antivirals with applications to multiple virus families causing numerous pathologies.
+                            Astremiha primarily targets emerging viruses but also focuses on latent and reactivated viruses that can lead to chronic diseases such as inflammatory diseases, type 1 diabetes, cancers, psychiatric disorders, neurodegenerative diseases, and neurodevelopmental disorders.</li>
+                    </ul>
+                </div>
+                <div class="main-about-image">
+                    <img src="images/about1.jpg" alt="">
+                </div>
+            </div>
+        </section>
+        
+        <!-- Our Research Section -->
+        <section id="research" class="research-animation">
+            <div class="main-research"> 
+                <div class="main-research-image">
+                    <img src="images/research.jpg" alt="">
+                </div>
+                <div class="main-research-details">
+                    <h2 id="research-title">Our Research</h2>
+                    <h3 id="research-areas">Research Areas</h3>
+                    <p id="research-areas-description">Descriptions of the main research areas with relevant images.</p>
+                    <h3 id="research-projects">Current Projects</h3>
+                    <p id="research-projects-description">Detailed information about current projects, including objectives, methodologies, and expected results.</p>
+                    <h3 id="research-publications">Publications</h3>
+                    <p id="research-publications-description">Links to scientific publications, articles, and patents.</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Our Solution -->
+        <section id="solution" class="solution-animation">
+            <div class="main-solution">
+                <div class="main-solution-details">
+                    <h2 id="solution-title">Our solutions</h2>
+                    <p id="solution-description">Products and Services: Description of the products developed, services offered, benefits for users.</p>
+                    <p id="solution-case-studies">Case Studies: Success stories and customer/partner testimonials.</p>
+                </div>
+                <div class="main-solution-image">
+                    <img src="images/solution.jpg" alt="">
+                </div>
+            </div>
+        </section>
+        
+        <!-- Partnerships Section -->
+        <!-- <section id="partnerships" class="partnership-animation">
+            <div class="main-partnerships">
+                <div class="main-partnerships-image">
+                    <img src="images/partnership.jpg" alt="">
+                </div>
+                <div class="main-partnerships-details">
+                    <h2 id="partnerships-title">Partnerships</h2>
+                    <h3 id="partnerships-current">Current Partners</h3>
+                    <p id="partnerships-current-description">Logos and descriptions of current collaborations.</p>
+                    <h3 id="partnerships-become">How to Become a Partner</h3>
+                    <p id="partnerships-become-description">Information for companies or organizations interested in collaborating.</p>
+                </div>
+            </div>
+        </section> -->
+        
+
+        <!-- Team Member section -->
+        <section id="team" class="team-section">
+            <div class="all-team">
+                <div class="team-board-member">
+                    <div>
+                        <h2>Board Members</h2>
+                        <div class="board-member">
+                            <div class="board-member-profile1">
+                                <img src="images/profile1.jpg" alt="ds">
+                                <h4 id="team-member1-name">name</h4>
+                                <h5 id="team-member1-role">role</h5>
+                            </div>
+                            <div class="board-member-profile1">
+                                <img src="images/profile1.jpg" alt="ds">
+                                <h4 id="team-member2-name">name</h4>
+                                <h5 id="team-member2-role">role</h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <h2>Scientific Advisory Board Members</h2>
+                        <div class="board-member">
+                            <div class="board-member-profile1">
+                                <img src="images/profile1.jpg" alt="ds">
+                                <h4 id="team-member3-name">name</h4>
+                                <h5 id="team-member3-role">role</h5>
+                            </div>
+                            <div class="board-member-profile1">
+                                <img src="images/profile1.jpg" alt="ds">
+                                <h4 id="team-member4-name">name</h4>
+                                <h5 id="team-member4-name">role</h5>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="team-member-details">
+                    <div class="team-member-details-1">
+                        <div class="team-member-details-img">
+                            <img src="images/profile3.jpg" alt="ds">
+                            <h4>name</h4>
+                            <h5>role</h5>
+                        </div>
+                        <div>
+                            <p>details  iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+                                iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+                                iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii</p>
+                        </div>
+                    </div>
+                    <div class="team-member-details-2">
+                        <div>
+                            <p>details  iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+                                iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+                                iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii</p>
+                        </div>
+                        <div class="team-member-details-img">
+                            <img src="images/profile3.jpg" alt="ds">
+                            <h4>name</h4>
+                            <h5>role</h5>
+                        </div>
+                    </div>
+                    <div class="team-member-details-1">
+                        <div class="team-member-details-img">
+                            <img src="images/profile3.jpg" alt="ds">
+                            <h4>name</h4>
+                            <h5>role</h5>
+                        </div>
+                        <div>
+                            <p>details  iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+                                iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+                                iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii</p>
+                        </div>
+                    </div>
+                    <div class="team-member-details-2">
+                        <div>
+                            <p>details  iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+                                iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+                                iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii</p>
+                        </div>
+                        <div class="team-member-details-img">
+                            <img src="images/profile3.jpg" alt="ds">
+                            <h4>name</h4>
+                            <h5>role</h5>
+                        </div>
+                    </div>
+                    <div class="team-member-details-1">
+                        <div class="team-member-details-img">
+                            <img src="images/profile3.jpg" alt="ds">
+                            <h4>name</h4>
+                            <h5>role</h5>
+                        </div>
+                        <div>
+                            <p>details  iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+                                iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+                                iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+        <!-- News Section -->
+        <!-- <section id="news">
+            <h2>News</h2>
+            <p>Information about conferences, trade shows, and seminars where the startup is present.</p>
+        </section> -->
+        
+        <!-- Contact Section -->
+        <!-- <section id="contact">
+            <h2>Contact Us</h2>
+            <form>
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name" required>
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required>
+                <label for="message">Message:</label>
+                <textarea id="message" name="message" required></textarea>
+                <button type="submit">Send</button>
+            </form>
+            <p>Address: [Your Address]</p>
+            <p>Phone: [Your Phone Number]</p>
+            <p>Email: [Your Email]</p>
+            <p>Social Media: [Your Social Media Links]</p>
+        </section> -->
+    </main>
+    
+    <footer id="contact" class="footer">
+        <div class="footer-main-div">
+            <h1>Contact us</h1>
+            <div class="footer-main-div-link">
+                <a href="" id="footer-home-link">Home</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="" id="footer-learnmore-link">learn more</a>
+            </div>
+            <div class="social-icons">
+                <a href="https://www.linkedin.com/in/yourprofile" class="social-icon" target="_blank">
+                    <i class="fab fa-linkedin"></i>
+                </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="https://github.com/yourusername" class="social-icon" target="_blank">
+                    <i class="fab fa-github"></i>
+                </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="https://www.facebook.com/yourprofile" class="social-icon" target="_blank">
+                    <i class="fab fa-facebook"></i>
+                </a>
+            </div>
+            <a class="privacy" href="" id="footer-privacy-link">Privacy & Legal</a>
+        </div>
+    </footer>
+    
+    <script src="js/script.js"></script>
+</body>
+</html>

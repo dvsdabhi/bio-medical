@@ -1,0 +1,70 @@
+{
+    "home": {
+      "title": "ASTREMIHA THERAPEUTICS develops a new class of broad-spectrum antivirals",
+      "subtitle": "Discover, Prevent and Cure"
+    },
+    "about": {
+      "startuptitle":"Description of the startup :",
+      "descriptions": "According to the WHO, infectious diseases are among the top three leading causes of death worldwide. ASTREMIHA Therapeutics is developing broad-spectrum antivirals aimed at blocking viral replication and strengthening the immune system to combat infections. These next-generation antivirals will address urgent and priority health needs such as AIDS and long COVID, with innovative preventive and curative properties.",
+      "title": "About Us",
+      "creationDate": "Date of Establishment: 2024",
+      "founders": "Main Founder: Mireille Laforge",
+      "co_founders": "Pierre Gressens, Raphael de Saint Exupéry",
+      "evolution" :"Evolution: In progress",
+      "mission": "Mission and Vision: Short and Long-term Goals",
+      "goals": [
+        "Short-term Goals: Develop the QVs family as a new curative treatment for AIDS and COVID/long COVID.",
+        "Long-term Goals: Develop the QVs family as broad-spectrum antivirals with applications to multiple virus families causing numerous pathologies.",
+        "Astremiha primarily targets emerging viruses but also focuses on latent and reactivated viruses that can lead to chronic diseases such as inflammatory diseases, type 1 diabetes, cancers, psychiatric disorders, neurodegenerative diseases, and neurodevelopmental disorders."
+      ]
+    },
+    "research": {
+      "title": "Our Research",
+      "areas": "Research Areas",
+      "areasDescription": "Descriptions of the main research areas with relevant images.",
+      "projects": "Current Projects",
+      "projectsDescription": "Detailed information about current projects, including objectives, methodologies, and expected results.",
+      "publications": "Publications",
+      "publicationsDescription": "Links to scientific publications, articles, and patents."
+    },
+    "solution": {
+      "title": "Our Solutions",
+      "description": "Products and Services: Description of the products developed, services offered, benefits for users.",
+      "caseStudies": "Case Studies: Success stories and customer/partner testimonials."
+    },
+    "partnerships": {
+      "title": "Partnerships",
+      "current": "Current Partners",
+      "currentDescription": "Logos and descriptions of current collaborations.",
+      "become": "How to Become a Partner",
+      "becomeDescription": "Information for companies or organizations interested in collaborating."
+    },
+    "team": {
+      "title": "Our Team",
+      "members": [
+        {"name": "Thierry Roussel", "role": "Entrepreneur Investor","eduction":""},
+        {"name": "Francois Rossier", "role": "Strategic Consultant","eduction":""},
+        {"name": "Mireille Laforge", "role": "CSO","eduction":""},
+        {"name": "Pierre Gressens", "role": "Co-CSO &  Clinical and Medical Advisor","eduction":""},
+        {"name": "Philippe Rouanet De Berchoux", "role": "Medical Advisor","eduction":"Dr. Philippe Rouanet de Berchoux is a general practitioner, graduated from the Faculty of Medicine of Bordeaux, and a military doctor, former central director of the military health service. In this leadership role, he proposed and led major strategic orientations up to 2030, particularly in health services, research, training, and expertise in a military health system, as well as participating in national health resilience. Throughout his career, he utilized his clinical skills within multidisciplinary groups, addressing major health challenges applied to the military, closely working with public health actors and international military health services. His various roles also allowed him to develop experience in crisis management, including health crises, taking a holistic approach to health issues by involving clinicians, researchers, epidemiologists, and healthcare organizers. He was a member of the Defense Ethics Committee at its inception for three years."},
+        {"name":"Bruno Villoutreix","role":"Drug Development Advisor","eduction":"Bruno Villoutreix is a research director at INSERM. He currently works in Paris at INSERM Unit 1141 (Robert Debré Hospital) and previously led the INSERM Therapeutic Molecules in Silico unit for over 10 years. Bruno has worked at the interface of molecular medicine, structural bioinformatics, chemoinformatics, and artificial intelligence/machine learning in various countries (USA, Finland, Sweden, Bulgaria, France), in both private and academic sectors. He has significantly contributed to the development of several pharmacological probes and drug candidates, including an in silico designed molecule currently in Phase II (Sweden) for cancer. He has also worked on the development of therapeutic proteins in the field of blood coagulation, the design of monoclonal antibodies for cancer, and drug repositioning with applications in several therapeutic areas (infectious diseases, cancer, etc.). He is also co-founder of a company developing targeted therapies for vascular barrier disorders, located in the Boston area, USA."},
+        {"name":"Michael Spedding","role":"Drug Development Advisor","eduction":"Michael Spedding, PhD, HonFBPhS. Michael is President of Spedding Research Solutions SAS (Paris), working on amyotrophic lateral sclerosis (ALS) and long COVID, developing a generic drug (Phase II ALS). He was secretary general of IUPHAR 2012-2024, coordinating pharmacology worldwide. Michael obtained his PhD and lectured at Sunderland, then spent 8 years at Merrell Dow research in Strasbourg (calcium channels), then Director at Syntex, Edinburgh, then set up Servier’s CNS research centre (Paris, and later a Budapest research centre for medicinal chemistry). With over 230 publications, more than 20 patents, and being listed among Clarivate’s 3000 most-cited scientists (all disciplines, 2013-present), he has an h-index of 75 and has taken 12 drugs into clinical development."},
+        {"name":"Nicolas Chomont","role":"Scientific Advisor","eduction":"Immunopathology/Infectiology Dr. Nicolas Chomont is an Associate Professor in the Department of Microbiology, Infectiology, and Immunology at the University of Montreal and a regular researcher at the CHUM Research Centre. He obtained his PhD in medical virology at the Pierre and Marie Curie University in Paris, where he studied the interactions between HIV and the genital mucosa. From 2004 to 2009, he joined the University of Montreal for his postdoctoral training. During this period, he described subpopulations of memory CD4 T cells that contribute to HIV persistence in individuals receiving antiretroviral therapy. He continued his research as a principal investigator at the Vaccine & Gene Therapy Institute of Florida to characterize these reservoirs. Since 2015, at the University of Montreal, Dr. Chomont has been leading studies to elucidate the molecular mechanisms involved in HIV latency and develop new therapeutic strategies to eradicate HIV. His work focuses on the immunological mechanisms involved in the persistence of HIV-infected cells, particularly the role of T cell proliferation in this process."},
+        {"name":"Vincent Calve","role":"Scientific Advisor & Infectiology/Viral Infection","eduction":"Vincent Calvez is a Professor of Clinical Virology at Sorbonne University School of Medicine, Head of the Virology Department at the Pitié-Salpêtrière Hospital, and Director of the ANRS Virology and Clinical Pharmacology Network. He obtained his doctorate in Medicine from the Pierre et Marie Curie School of Medicine and his PhD from the Pasteur Institute in Paris. For the past 30 years, he has dedicated himself to the development of antiviral agents and oncology therapeutics. He is the author of over 600 international publications, holds 11 patents, and is co-founder of a clinical-stage biotech company (SkinDermic)."}
+      ]
+    },
+    "footer": {
+      "homeLink": "Home",
+      "learnmoreLink": "learn more",
+      "PrivacyLegal": "Privacy & Legal"
+    },
+    "links": {
+      "home": "maison",
+      "about": "about",
+      "research": "research",
+      "solution": "solution",
+      "partnerships": "partnerships",
+      "team": "team"
+    }
+  }
+  

@@ -1,0 +1,69 @@
+{
+    "home": {
+      "title": "ASTREMIHA THERAPEUTICS développe une nouvelle classe d'antiviraux à large spectre",
+      "subtitle": "Découvrir, prévenir et guérir"
+    },
+    "about": {
+      "startuptitle": "Description de la startup :",
+      "descriptions": "Selon l'OMS, les maladies infectieuses font partie des trois principales causes de décès dans le monde. ASTREMIHA Therapeutics développe des antiviraux à large spectre visant à bloquer la réplication virale et à renforcer le système immunitaire pour lutter contre les infections. Ces antiviraux de nouvelle génération répondra aux besoins de santé urgents et prioritaires tels que le SIDA et le COVID long, avec des propriétés préventives et curatives innovantes.",
+      "title": "À propos de nous",
+      "creationDate": "Date de création : 2024",
+      "founders": "Fondatrice principale : Mireille Laforge",
+      "co_fondateurs" : "Pierre Gressens, Raphaël de Saint Exupéry",
+      "evolution" :"Evolution : En cours",
+      "mission": "Mission et vision : objectifs à court et à long terme",
+      "goals": [
+      "Objectifs à court terme : Développer la famille QVs comme nouveau traitement curatif du SIDA et du COVID/COVID long.",
+      "Objectifs à long terme : développer la famille QV en tant qu'antiviraux à large spectre avec des applications sur plusieurs familles de virus provoquant de nombreuses pathologies.",
+      "Astremiha cible principalement les virus émergents, mais se concentre également sur les virus latents et réactivés pouvant entraîner des maladies chroniques telles que les maladies inflammatoires, le diabète de type 1, les cancers, les troubles psychiatriques, les maladies neurodégénératives et les troubles du développement neurologique."
+      ]
+    },
+    "research": {
+      "title": "Notre recherche",
+      "areas": "Domaines de recherche",
+      "areasDescription": "Descriptions des principaux domaines de recherche avec des images pertinentes.",
+      "projects": "Projets actuels",
+      "projectsDescription": "Informations détaillées sur les projets en cours, y compris les objectifs, les méthodologies et les résultats attendus.",
+      "publications": "Publications",
+      "publicationsDescription": "Liens vers les publications scientifiques, articles et brevets."
+    },
+    "solution": {
+      "title": "Nos solutions",
+      "description": "Produits et services : Description des produits développés, services offerts, avantages pour les utilisateurs.",
+      "caseStudies": "Études de cas : Témoignages de réussite et témoignages de clients/partenaires."
+    },
+    "partnerships": {
+      "title": "Partenariats",
+      "current": "Partenaires actuels",
+      "currentDescription": "Logos et descriptions des collaborations actuelles.",
+      "become": "Comment devenir partenaire",
+      "becomeDescription": "Informations pour les entreprises ou les organisations intéressées par la collaboration."
+    },
+    "team": {
+      "title": "Notre équipe",
+      "members": [
+        {"name": "Thierry Roussel", "role": "Entrepreneur Investisseur","eduction":""},
+        {"name": "François Rossier", "role": "Consultant stratégique","eduction":""},
+        {"name": "Mireille Laforge", "role": "CSO","eduction":""},
+        {"name": "Pierre Gressens", "role": "Co-CSO & Conseiller Clinique et Médical","eduction":""},
+        {"name": "Philippe Rouanet De Berchoux", "role": "Médecin-conseil","eduction":"Le Dr Philippe Rouanet de Berchoux est médecin généraliste, diplômé de la Faculté de médecine de Bordeaux, et médecin militaire, ancien directeur central du service de santé des armées. Dans ce rôle de leadership, il a proposé et dirigé de grandes orientations stratégiques jusqu'en 2030, notamment en matière de services de santé, de recherche, de formation et d'expertise dans un système de santé militaire, ainsi que de participation à la résilience sanitaire nationale. Tout au long de sa carrière, il a mis à profit ses compétences cliniques au sein de groupes multidisciplinaires, abordant les grands défis de santé appliqués au militaire, en étroite collaboration avec les acteurs de la santé publique et les services de santé militaires internationaux. Ses différentes fonctions lui ont également permis de développer une expérience en gestion de crise, notamment sanitaire, en adoptant une approche holistique des enjeux de santé en impliquant cliniciens, chercheurs, épidémiologistes et organisateurs de soins. Il a été membre du Comité d'éthique de la Défense lors de sa création pendant trois ans."},
+        {"name":"Bruno Villoutreix","role":"Conseiller en développement de médicaments","eduction":"Bruno Villotreix est directeur de recherche à l'INSERM. Il travaille actuellement à Paris au sein de l'unité INSERM 1141 (Hôpital Robert Debré) et a précédemment dirigé l'unité INSERM Molécules Thérapeutiques in Silico pendant plus de 10 ans. Bruno a travaillé à l'interface de la médecine moléculaire, de la bioinformatique structurale, de la chimioinformatique et de l'intelligence artificielle/apprentissage automatique dans divers pays (États-Unis, Finlande, Suède, Bulgarie, France), tant dans le secteur privé qu'académique. Il a contribué de manière significative au développement de plusieurs sondes pharmacologiques et candidats médicaments, dont une molécule conçue in silico actuellement en phase II (Suède) pour le cancer. Il a également travaillé sur le développement de protéines thérapeutiques dans le domaine de la coagulation sanguine, la conception d'anticorps monoclonaux contre le cancer et le repositionnement de médicaments ayant des applications dans plusieurs domaines thérapeutiques (maladies infectieuses, cancer, etc.). Il est également co-fondateur d'une société développant des thérapies ciblées pour les troubles de la barrière vasculaire, située dans la région de Boston, aux États-Unis."},
+        {"name":"Michael Spedding","role":"Conseiller en développement de médicaments","eduction":"Michael Spedding, PhD, HonFBPhS. Michael est président de Spedding Research Solutions SAS (Paris), travaillant sur la sclérose latérale amyotrophique (SLA) et le COVID long, développant un médicament générique (Phase II ALS). Il a été secrétaire général de l'IUPHAR 2012-2024, coordonnant la pharmacologie dans le monde. Michael a obtenu son doctorat et enseigné à Sunderland, puis a passé 8 ans au sein de la recherche Merrell Dow à Strasbourg (canaux calciques), puis directeur au Syntex, Édimbourg, puis a créé le centre de recherche CNS de Servier (Paris, puis un centre de recherche en chimie médicinale à Budapest ). Avec plus de 230 publications, plus de 20 brevets et figurant parmi les 3 000 scientifiques les plus cités de Clarivate (toutes disciplines confondues, 2013 à aujourd’hui), il possède un indice h de 75 et a mis 12 médicaments en développement clinique."},
+        {"name":"Nicolas Chomont","role":"Conseiller scientifique","eduction":"Immunopathologie/Infectiologie Le Dr Nicolas Chomont est professeur agrégé au Département de microbiologie, infectiologie et immunologie de l'Université de Montréal et chercheur régulier au Centre de recherche du CHUM. Il a obtenu son doctorat en virologie médicale à l'Université Pierre et Marie Curie de Paris, où il a étudié les interactions entre le VIH et la muqueuse génitale. De 2004 à 2009, il s'est joint à l'Université de Montréal pour sa formation postdoctorale. Au cours de cette période, il a décrit des sous-populations de lymphocytes T CD4 mémoire qui contribuent à la persistance du VIH chez les personnes recevant un traitement antirétroviral. Il a poursuivi ses recherches en tant que chercheur principal au Vaccine & Gene Therapy Institute de Floride pour caractériser ces réservoirs. Depuis 2015, à l'Université de Montréal, le Dr Chomont mène des études visant à élucider les mécanismes moléculaires impliqués dans la latence du VIH et à développer de nouvelles stratégies thérapeutiques pour éradiquer le VIH. Ses travaux portent sur les mécanismes immunologiques impliqués dans la persistance des cellules infectées par le VIH, notamment le rôle de la prolifération des lymphocytes T dans ce processus."},
+        {"name":"Vincent Calve","role":"Conseiller Scientifique & Infectiologie/Infection Virale","eduction":"Vincent Calvez is a Professor of Clinical Virology at Sorbonne University School of Medicine, Head of the Virology Department at the Pitié-Salpêtrière Hospital, and Director of the ANRS Virology and Clinical Pharmacology Network. He obtained his doctorate in Medicine from the Pierre et Marie Curie School of Medicine and his PhD from the Pasteur Institute in Paris. For the past 30 years, he has dedicated himself to the development of antiviral agents and oncology therapeutics. He is the author of over 600 international publications, holds 11 patents, and is co-founder of a clinical-stage biotech company (SkinDermic)."}
+      ]
+    },
+    "footer": {
+      "homeLink": "Maison",
+      "learnmoreLink": "apprendre encore plus",
+      "PrivacyLegal": "Confidentialité et mentions légales"
+    },
+    "links": {
+      "home": "accueil",
+      "about": "a-propos",
+      "research": "recherche",
+      "solution": "solution",
+      "partnerships": "partenariats",
+      "team": "equipe"
+    }
+  }
